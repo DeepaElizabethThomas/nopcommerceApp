@@ -1,0 +1,47 @@
+1663795503079	geckodriver	INFO	Listening on 127.0.0.1:22512
+1663795506183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "22513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\arun1\\AppData\\Local\\Temp\\rust_mozprofileauPRXg"
+1663795506582	Marionette	INFO	Marionette enabled
+1663795506586	Marionette	INFO	Listening on port 22523
+Read port: 22523
+WebDriver BiDi listening on ws://127.0.0.1:22513
+1663795506685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arun1\\AppData\\Local\\Temp\\rust_mozprofileauPRXg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:22513/devtools/browser/6247f92e-08b0-402c-9bff-34f40a97c03b
+1663795510910	Marionette	INFO	Stopped listening on port 22523
+1663795511420	geckodriver	INFO	Listening on 127.0.0.1:22540
+1663795514493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "22541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\arun1\\AppData\\Local\\Temp\\rust_mozprofilewMLeTI"
+1663795514747	Marionette	INFO	Marionette enabled
+1663795514750	Marionette	INFO	Listening on port 22550
+WebDriver BiDi listening on ws://127.0.0.1:22541
+Read port: 22550
+1663795514939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arun1\\AppData\\Local\\Temp\\rust_mozprofilewMLeTI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:22541/devtools/browser/17c89b1f-b401-40a3-962e-4c7388fc112d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1663795525047	Marionette	INFO	Stopped listening on port 22550
+[Parent 17508, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1663795988724	geckodriver	INFO	Listening on 127.0.0.1:22692
+1663795991779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "22693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\arun1\\AppData\\Local\\Temp\\rust_mozprofileVTCNTt"
+1663795992187	Marionette	INFO	Marionette enabled
+1663795992192	Marionette	INFO	Listening on port 22703
+Read port: 22703
+WebDriver BiDi listening on ws://127.0.0.1:22693
+1663795992309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arun1\\AppData\\Local\\Temp\\rust_mozprofileVTCNTt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:22693/devtools/browser/06201305-4354-451b-9f0a-a7cb2c2acdcf
+1663795995616	Marionette	INFO	Stopped listening on port 22703
+[Parent 4588, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1663795996140	geckodriver	INFO	Listening on 127.0.0.1:22721
+1663795999209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "22722" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\arun1\\AppData\\Local\\Temp\\rust_mozprofileUB1lkk"
+1663795999457	Marionette	INFO	Marionette enabled
+1663795999460	Marionette	INFO	Listening on port 22731
+WebDriver BiDi listening on ws://127.0.0.1:22722
+Read port: 22731
+1663795999657	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\arun1\\AppData\\Local\\Temp\\rust_mozprofileUB1lkk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:22722/devtools/browser/d4684689-e80e-4d0d-ac5c-05ee47900ebd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1663796005425	Marionette	INFO	Stopped listening on port 22731
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=meexYto0mAKr6PjyeE37ROc-We8, line 2: NS_ERROR_NOT_INITIALIZED: 
